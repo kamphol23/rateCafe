@@ -1,0 +1,71 @@
+html {
+  font-size: 100%;
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+   min-height: 100vh;
+   display: flex;
+  flex-direction: column;
+  background-image: url(https://media.istockphoto.com/id/1143083369/vector/fast-food-seamless-pattern.jpg?s=612x612&w=0&k=20&c=FBV9et_vFZ86uFGe-_ksda4L9CgFGZPlKoTWv9N9PMo=);
+}
+header {
+  margin: 40px;
+  text-align: center;
+}
+
+footer {
+flex-shrink: 0;
+margin-top: auto;
+text-align: center;
+
+}
+
+button {
+  margin: 40px 20px 20px 20px;
+  padding: 10px;
+  border-radius: 10px;
+  border: solid 1px;
+}
+.table-container{
+background-color: antiquewhite;
+display: flex;
+justify-content: center;
+border-style: double;
+border-radius: 25px;
+width: 70%;
+text-align: center;
+margin: auto;
+padding: 30px;
+height: 500px;
+
+}
+
+table{
+  width: 100%;
+}
+
+th, td{
+  padding: 10px;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.add-cafe-container{
+  display: flex;
+}
+
+.add-cafe-container  div  {
+  display: grid;
+  padding: 10px
+}
+
+.add-cafe-container  input {
+padding: 10px;
+border-radius: 10px;
+border-style: solid;
+}

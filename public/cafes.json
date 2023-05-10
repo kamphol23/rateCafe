@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Expresso house",
+    "rating": 4.3,
+    "location": "Stenungs torg"
+  },
+  {
+    "name": "Fröken Olsson",
+    "rating": 3.8,
+    "location": "Östra Larmgatan 14"
+  },
+  {
+    "name": "Farmor Gretas Cafe",
+    "rating": 5,
+    "location": "Munkerödsvägen 6"
+  },
+  {
+    "name": "Fregatten Bio och Café",
+    "rating": 4,
+    "location": "Fregatten 2,"
+  }
+]
